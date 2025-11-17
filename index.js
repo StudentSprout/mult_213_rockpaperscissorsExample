@@ -4,7 +4,7 @@ import { demo_play_10_games } from './tests.js';
 
 async function main() {
     // Startup logic, welcome, splash screen
-    console.log("Welcome to Rock, Paper, Scissors!");
+    console.log("Welcome to Dylan's version of Rock, Paper, Scissors!");
 
     // Main Event Loop / Logic
     // What are the main things our app does?
